@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "element-ui": "^2.15.10",
+    "three": "^0.145.0",
     "vue": "^2.6.14",
+    "vue-amap": "^0.5.10",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
   },
